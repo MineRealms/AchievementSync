@@ -1,0 +1,7 @@
+name: MessageSync
+version: ${project.version}
+main: cn.minerealms.MessageSync.MessageSync
+prefix: AchiveSync
+authors: [MineRealmsDev]
+description: 跨服同步消息
+website: www.minerealms.cn

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bungeecord-api-1.14-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/net/md-5/bungeecord-api/1.14-SNAPSHOT/bungeecord-api-1.14-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
